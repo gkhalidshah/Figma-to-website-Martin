@@ -17,7 +17,7 @@ This repository contains the source code for a web project where a Figma design 
 Contributions are welcomed! If you have ideas for improvements or new features, feel free to fork the repository, make your changes, and submit a pull request.
 
 ### License
-This project is under the [MIT License](LICENSE), granting flexibility for usage and modifications.
+This project is under the [MIT License](https://opensource.org/license/mit/), granting flexibility for usage and modifications.
 
 Feel free to reach out for any inquiries or feedback!
 
